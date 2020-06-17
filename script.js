@@ -6,9 +6,9 @@ function showData() {
 
   /*Alert */
   alert(`
-  Nama Saya: ${name1} \n 
-  No Hp: ${phone1} \n
-  Email: ${email1} \n
+  Nama Saya: ${name1}
+  No Hp: ${phone1}
+  Email: ${email1}
   Password: ${pass1}
   `);
 }
